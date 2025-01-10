@@ -6,6 +6,7 @@ public class Generator {
 
 	private UUID id;
 
+	
 	public UUID getId() {
 		return id;
 	}
