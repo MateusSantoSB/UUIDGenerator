@@ -66,7 +66,7 @@ If you prefer, we have in ```/``` the ```Dockerfile``` to run in a docker enviro
 
 ### ``` Get``` 
 ### /generator/generateUUID
-Para buscar um segredo.
+For generate a UUID
 
 ```
 {
